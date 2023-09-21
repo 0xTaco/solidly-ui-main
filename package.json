@@ -7,7 +7,8 @@
     "build": "next build",
     "export": "next export",
     "build2": "next build && next export",
-    "start": "next start",
+    "start1": "next start",
+    "start": "SET NODE_OPTIONS=--openssl-legacy-provider && next start",
     "start2": "SET NODE_OPTIONS=--openssl-legacy-provider && next dev"
   },
   "dependencies": {
