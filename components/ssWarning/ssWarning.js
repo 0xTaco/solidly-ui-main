@@ -12,7 +12,7 @@ export default function ffWarning({ close }) {
         <div className={classes.warningContainer}>
           <img src="/images/icon-warning.svg" className={classes.warningIcon} />
           <Typography className={classes.title1}>TACO DEX Disclaimer:</Typography>
-          <Typography className={classes.title2}>Acknowledgement of Terms &amp; Conditions of access</Typography>
+          <Typography className={classes.title2}>Acknowledgement of Terms &amp; Conditions</Typography>
           <Typography className={classes.paragraph} align="center">
             <span>
             Use of the Tacofinance.xyz website, services, dapp, or application is subject to the following terms and conditions and I hereby confirm that by proceeding and interacting with the protocol I am aware of these and accept them in full:
