@@ -1,0 +1,48 @@
+[
+    {
+        "address": "0x3553C7ac88b450ea444E2f74eBD7F5E5D64E574B",
+        "symbol": "VolatileV1 AMM - Taco/WETH",
+        "decimals": 18,
+        "stable": false,
+        "total_supply": 3.4,
+        "token0_address": "0x0d9C81Ba64f16cD6305a691E78Fd506c451F8289",
+        "token1_address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+        "token0_decimals": 18,
+        "token1_decimals": 18,
+		"gauge":{
+			"address": "0xf49A737Cb94DA42543F968a5F453E30a5308691E",
+			"bribeAddress": "0xA984BE3aFC3AA051764509E9A7bB40EEbd050216",
+			"bribes":[{
+				"token":{
+					"decimals":18,
+					"address": "0x0d9C81Ba64f16cD6305a691E78Fd506c451F8289"
+				}
+		}]
+		},
+        "token0": {
+            "name": "Taco Governance Token",
+            "address": "0x0d9C81Ba64f16cD6305a691E78Fd506c451F8289",
+            "symbol": "TACO",
+            "decimals": 18,
+            "chainId": 5,
+            "logoURI": "https://solidly.exchange/Solidly-O.svg",
+            "balance": "92890.031397959902000295",
+            "isWhitelisted": true
+        },
+        "token1": {
+            "address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+            "symbol": "WETH",
+            "name": "Wrapped Ether",
+            "decimals": 18,
+            "logoURI": null,
+            "local": true,
+            "balance": "0.093050493760276954"
+        },
+        "balance": "0.000000000000000000",
+        "totalSupply": "3.475279593068634819",
+        "reserve0": "2109.868602040097999701",
+        "reserve1": "0.005724322471229307",
+        "claimable0": "0.000000000000000000",
+        "claimable1": "0.000000000000000000"
+    }
+]

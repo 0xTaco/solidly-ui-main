@@ -1,0 +1,193 @@
+input[type="date"]::-webkit-calendar-picker-indicator {
+  color: rgba(128, 128, 128, 0);
+  background: url('/calendar.svg') no-repeat;
+  background-size: contain;
+  opacity: 1;
+  display: block;
+  border-width: thin;
+  position: absolute;
+  left: -115px;
+  z-index: 9;
+}
+
+button {
+  text-transform: none !important;
+}
+
+.layout_container__2yT5o {
+  max-width: 100vw;
+  min-height: 100vh;
+  height: 100%;
+  width: 100%;
+  display: -moz-box;
+  display: flex;
+  background-image: url(/images/we.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: rgb(255 255 255);
+  opacity: 1 !important;
+}
+
+.mew{
+  border-radius: 10px;
+  width: 7em !important;
+  height: 3em !important;
+}
+
+.navigation_navigationContainer__QEVXX{
+  background: transparent;
+}
+
+.header_accountButton__rknsE{
+  background: transparent !important;
+  border: 1px solid #ffffff;
+}
+
+.ssSwap_swapContainer__3rGoj{
+  background: transparent !important;
+  border: 1px solid #ffffff;
+}
+
+.ssSwap_massiveInputContainer__2HamM{
+  background: rgb(255 255 255) !important;
+  border: 1px solid #ffffff;
+  opacity: .6;
+  color: rgb(25, 33, 56) !important;
+}
+
+.ssSwap_displayAssetIcon__15e7Y{
+  background: transparent !important;
+}
+
+.Component-paper-2{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+
+.MuiPaper-root{
+  color: rgb(255 255 255) !important;
+}
+
+.makeStyles-filterButton-38{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+  color: rgb(255 255 255) !important;
+}
+.makeStyles-buttonOverride-35{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+  color: rgb(255 255 255) !important;
+}
+
+.makeStyles-tableContainer-37{
+  background: transparent !important;
+}
+
+.header_accountButton__rknsE{
+  border: 1px solid #ffffff !important;
+}
+
+.ssSwap_largeInput__GebDr{
+  color: #000 !important;
+}
+
+.makeStyles-buttonOverride-83{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+  color: rgb(255 255 255) !important;
+}
+
+.makeStyles-tableContainer-85{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+
+.ssVotes_mediumInputContainer__2CnHt{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+
+.ssVotes_tableContainer__bbC3C{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+.ssVotes_actionButtons__Rzts5{
+  background: rgb(255 255 255) !important;
+  border: 1px solid #ffffff !important;
+}
+
+.ssRewards_mediumInputContainer__1Id0x{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+.makeStyles-tableContainer-78{
+  background: transparent !important;
+}
+
+.makeStyles-tableContainer-39{
+  background: transparent !important;
+  border: 1px solid #ffffff !important;
+}
+
+.MuiPaper-root{
+  background: transparent !important;
+}
+.vest_notConnectedContent__ut8L7{
+  border: 1px solid #ffffff !important;
+}
+.ssLiquidityManage_container__2nxaH{
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  opacity: .8;
+  background: #fff !important;
+  color: #000 !important;
+}
+.ssVest_vestContainer__2sCZF{
+  border: 1px solid #ffffff;
+  border-radius: 10px;
+  opacity: .8;
+  background: #fff;
+}
+
+@media screen and (max-width: 560px){
+.navigation_navigationContent__JHbeR {
+  background: transparent;
+}
+.navigation_linkz__39BEl{
+  display: none;
+}
+.mew {
+  border-radius: 10px;
+  width: 7em !important;
+  height: 1.7em !important;
+}
+}
+@media screen and (max-width: 800px){
+  .mew {
+    border-radius: 10px;
+    width: 7em !important;
+    height: 1.7em !important;
+  }
+  .navigation_linkz__39BEl{
+    display: none;
+  }
+}
+@media screen and (max-width: 1200px){
+.navigation_navigationContent__JHbeR {
+  background: transparent !important;
+}
+}
+@media screen and (max-width: 1100px){
+  .navigation_linkz__39BEl{
+    display: none;
+  }
+  .mew {
+    border-radius: 10px;
+    width: 7em !important;
+    height: 1.7em !important;
+  }
+}
+.MuiTypography-colorTextSecondary{
+  color: rgb(25, 33, 56) !important;
+}
